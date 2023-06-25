@@ -12,4 +12,4 @@ Eu sou Gabriel Boia, um desenvolvedor júnior. Atualmente, estou estudando Ciên
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=G4bri3l05&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=G4bri3l05&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
